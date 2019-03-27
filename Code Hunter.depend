@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553490778 source:d:\codeblocks\code hunter\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+
